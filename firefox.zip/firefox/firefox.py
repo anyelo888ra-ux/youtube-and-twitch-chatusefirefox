@@ -4,7 +4,7 @@ import pytchat
 from playwright.async_api import async_playwright
 
 # Configuración de Canales
-TWITCH_CHANNEL = "c00lkidd_v2ytofficial"
+TWITCH_CHANNEL = "" # tu username de tu twitch
 YOUTUBE_VIDEO_ID = "13nhDilPZc8"  # ID del en vivo de YouTube (si aplica)
 
 # Rutas exactas a las extensiones
